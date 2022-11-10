@@ -1,0 +1,19 @@
+.contenedor {
+    margin: auto;
+    width: 35%;
+    margin-top: 2.5%;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 25px;
+}
+
+img {
+    border-width: 0px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+ul {
+    font-size: large;
+    padding: 20px;
+}
